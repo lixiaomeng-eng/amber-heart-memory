@@ -1,4 +1,4 @@
-#amber-heart-memory  
+# amber-heart-memory  
 
 > 给 AI 伴侣一个会生长的记忆。  
 > 固定记忆稳定人格，短期记忆接住当下，长期记忆沉淀关系。
